@@ -6,7 +6,7 @@
 //Create a sketch with this code. Go to Tools > Board > Arduino MegaAVR Boards > Arduino Nano Every 
 //Then go to Tools > Port and select the right port (Arduino Nano Every port on Apple/Mac, COM on Windows)
 //Go to Sketch > Include Library > Manage Libraries > search for HX711 > choose HX711 by Rob Tillaart 
-//
+//Run the code and then go to Tools > Serial Monitor to view the output 
 
 
 // /*
