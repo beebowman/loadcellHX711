@@ -12,10 +12,10 @@
 // */
 
 // //INSTRUCTIONS: Connnect E+ to red, E- to black, A- to white, and A+ to green, connecting HX711 to teh load cell wires 
-// //Connect GND of HX711 to GND of Arduino
+// //Connect GND of HX711 to GND of Arduino Nano Every
 // //Connect DT (data / DAT) of HX711 to Pin 3 of Arduino Nano Every 
 // //Connect SCK or CLK of HX711 into Pin 5 of Arduino Nano Every 
-// //Connect VCC of HX711 to 5V pin of Arduino 
+// //Connect VCC of HX711 to 5V pin of Arduino Nano Every
 
 //First, uncomment section A of the code to find the calibration factor, with section B commented with '//' before each line. 
 //Calibration factor, which is the reading for known weight (such as 3881, a number that gets spit out by the code) divided by known weight that you have weighed, such as 0.936lbs)
