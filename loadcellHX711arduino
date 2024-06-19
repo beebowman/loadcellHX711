@@ -2,6 +2,13 @@
 
 //This code works for either Arduino Nano Every, or for Arduino Uno R3. Both will work. 
 
+//Setup Steps: 
+//Create a sketch with this code. Go to Tools > Board > Arduino MegaAVR Boards > Arduino Nano Every 
+//Then go to Tools > Port and select the right port (Arduino Nano Every port on Apple/Mac, COM on Windows)
+//Go to Sketch > Include Library > Manage Libraries > search for HX711 > choose HX711 by Rob Tillaart 
+//
+
+
 // /*
 //   Rui Santos
 //   Complete project details at https://RandomNerdTutorials.com/arduino-load-cell-hx711/
