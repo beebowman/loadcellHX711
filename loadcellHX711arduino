@@ -18,7 +18,7 @@
 //   copies or substantial portions of the Software.
 // */
 
-// //INSTRUCTIONS: Connnect E+ to red, E- to black, A- to white, and A+ to green, connecting HX711 to teh load cell wires 
+// //INSTRUCTIONS: Connect E+ to red, E- to black, A- to white, and A+ to green, connecting HX711 to the load cell wires 
 // //Connect GND of HX711 to GND of Arduino Nano Every
 // //Connect DT (data / DAT) of HX711 to Pin 3 of Arduino Nano Every 
 // //Connect SCK or CLK of HX711 into Pin 5 of Arduino Nano Every 
